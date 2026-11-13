@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" font-family="-apple-system, Helvetica, Arial, sans-serif">
+  <rect width="760" height="420" rx="14" fill="#15171c"/>
+  <!-- left: the hierarchy path -->
+  <text x="190" y="34" fill="#e9e6df" font-size="15" font-weight="600" text-anchor="middle">Most companies: up, then back down</text>
+  <text x="190" y="54" fill="#9a968d" font-size="12" text-anchor="middle">the "EKG" — every question waits at each level</text>
+  <g fill="#2a2e37" stroke="#4a505c">
+    <rect x="165" y="76" width="50" height="26" rx="6"/>
+    <rect x="95" y="132" width="50" height="26" rx="6"/><rect x="235" y="132" width="50" height="26" rx="6"/>
+    <rect x="40" y="188" width="50" height="26" rx="6"/><rect x="268" y="188" width="96" height="26" rx="6"/>
+  </g>
+  <g fill="#9a968d" font-size="10" text-anchor="middle">
+    <text x="190" y="93">CEO</text><text x="120" y="149">boss</text><text x="260" y="149">boss</text>
+    <text x="65" y="205">you</text><text x="316" y="205">has the answer</text>
+  </g>
+  <polyline points="65,188 120,158 190,102 260,158 315,188" fill="none" stroke="#e0a43b" stroke-width="3" stroke-linejoin="round"/>
+  <polyline points="40,260 80,260 95,232 110,286 125,240 140,260 180,260 195,224 210,292 225,236 240,260 340,260" fill="none" stroke="#e0a43b" stroke-width="2" opacity=".55"/>
+  <text x="190" y="314" fill="#e0a43b" font-size="12" text-anchor="middle">4 hand-offs · days</text>
+  <!-- right: straight across -->
+  <line x1="380" y1="24" x2="380" y2="320" stroke="#2f343d"/>
+  <text x="570" y="34" fill="#e9e6df" font-size="15" font-weight="600" text-anchor="middle">Musk: straight across</text>
+  <text x="570" y="54" fill="#9a968d" font-size="12" text-anchor="middle">"like a dead patient" — go to whoever has the answer</text>
+  <g fill="#2a2e37" stroke="#4a505c">
+    <rect x="545" y="76" width="50" height="26" rx="6"/>
+    <rect x="420" y="188" width="50" height="26" rx="6"/><rect x="648" y="188" width="96" height="26" rx="6"/>
+  </g>
+  <g fill="#9a968d" font-size="10" text-anchor="middle">
+    <text x="570" y="93">CEO</text><text x="445" y="205">you</text><text x="696" y="205">has the answer</text>
+  </g>
+  <line x1="470" y1="201" x2="648" y2="201" stroke="#5fd3a8" stroke-width="3"/>
+  <line x1="420" y1="260" x2="720" y2="260" stroke="#5fd3a8" stroke-width="2" opacity=".55"/>
+  <text x="570" y="314" fill="#5fd3a8" font-size="12" text-anchor="middle">1 hand-off · same day</text>
+  <!-- bottom: the three-sentence email -->
+  <line x1="24" y1="336" x2="736" y2="336" stroke="#2f343d"/>
+  <text x="24" y="360" fill="#e9e6df" font-size="13" font-weight="600">What travels on that line: the three-sentence email</text>
+  <g font-size="12">
+    <rect x="24" y="372" width="224" height="34" rx="8" fill="#22262e"/><text x="36" y="394" fill="#e9e6df"><tspan fill="#e0a43b" font-weight="600">1 </tspan>Here's my problem</text>
+    <rect x="268" y="372" width="224" height="34" rx="8" fill="#22262e"/><text x="280" y="394" fill="#e9e6df"><tspan fill="#e0a43b" font-weight="600">2 </tspan>Here's my proposed fix</text>
+    <rect x="512" y="372" width="224" height="34" rx="8" fill="#22262e"/><text x="524" y="394" fill="#e9e6df"><tspan fill="#e0a43b" font-weight="600">3 </tspan>My next step + what I need</text>
+  </g>
+</svg>
